@@ -1,1 +1,1 @@
-web: gunicorn dj_heroku_gha.wsgi
+web: gunicorn core.wsgi
